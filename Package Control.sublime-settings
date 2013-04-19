@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"CoffeeLint",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Haml",
+		"HTML Snippets",
+		"HTML2Haml",
+		"HTML5",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"SyncedSideBar"
+	]
+}
